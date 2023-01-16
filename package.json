@@ -1,25 +1,25 @@
 {
-  "name": "7-02",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "eslint": "eslint",
-    "prettier": "prettier"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Yaroslavcher/jsaqa-homeworks-7.02.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Yaroslavcher/jsaqa-homeworks-7.02/issues"
-  },
-  "homepage": "https://github.com/Yaroslavcher/jsaqa-homeworks-7.02#readme",
-  "devDependencies": {
-    "eslint": "^8.32.0",
-    "prettier": "2.8.3"
-  }
+    "name": "7-02",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "eslint": "eslint",
+        "prettier": "prettier"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Yaroslavcher/jsaqa-homeworks-7.02.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Yaroslavcher/jsaqa-homeworks-7.02/issues"
+    },
+    "homepage": "https://github.com/Yaroslavcher/jsaqa-homeworks-7.02#readme",
+    "devDependencies": {
+        "eslint": "^8.32.0",
+        "prettier": "2.8.3"
+    }
 }
